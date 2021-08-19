@@ -1,7 +1,15 @@
+# jykim add
+kakaoapikey.txt
+roadapikey.txt
+guideSearchApi/
+password.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
