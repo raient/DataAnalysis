@@ -1,11 +1,13 @@
 # jykim add
 kakaoapikey.txt
 roadapikey.txt
-guideSearchApi/
+04_공공API_및_지도시각화/guideSearchApi/
+04_공공API_및_지도시각화/data/
 password.txt
 chromedriver_win32.zip
 chromedriver.exe
-05_Crawling\data
+05_Crawling/data/
+
 
 
 
